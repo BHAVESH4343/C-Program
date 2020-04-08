@@ -24,5 +24,5 @@ int main()
 	{
 	printf("Grade F");
 	}
-	retutn 0;
+	return 0;
 }
